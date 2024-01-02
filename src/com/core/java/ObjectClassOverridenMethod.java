@@ -12,10 +12,7 @@ public class ObjectClassOverridenMethod {
         if(a.equals(b)){
             System.out.println(("equal according to equals"));
         }else{
-            System.out.println((" not equal accorind to equals"));
+            System.out.println(("not equal accorind to equals"));
         }
-
-
-
     }
 }
